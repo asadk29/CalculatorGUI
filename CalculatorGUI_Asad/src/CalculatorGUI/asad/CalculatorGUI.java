@@ -15,10 +15,10 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
-public class SimpleCalculatorLast implements ActionListener{
+public class CalculatorGUI implements ActionListener{
 	private JTextField input;
 	public static void main(String[] args) {
-		new SimpleCalculatorLast().go();
+		new CalculatorGUI().go();
 	}
 	public void go() {
 		JFrame frame = new JFrame("Simple Calculator");
