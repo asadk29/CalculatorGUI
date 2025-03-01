@@ -1,7 +1,7 @@
 # CalculatorGUI
 
 ##Description
-A Calculator program built using Java(Swing and AWT)
+-A Calculator program built using Java(Swing and AWT)
 
 ##Features
 - Performs basic arithematic operation (+,-,\,*,%)
